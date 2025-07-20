@@ -1,6 +1,6 @@
-Company Name : CodeTech It Solution
+Company Name : CodeTech IT Solution
 
-Name : RAksha Dattu Shrimanwar
+Name : Raksha Dattu Shrimanwar
 
 Intern Id : CT04DG2657
 
