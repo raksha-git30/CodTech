@@ -49,3 +49,7 @@ Educational Value
 This quiz app is ideal for students learning web development, as it combines foundational skills in HTML, CSS, and JavaScript. It introduces DOM manipulation, event listeners, conditional logic, and UI design principles — all within a single project.
 
 In conclusion, the Quiz Application built using HTML, CSS, and JavaScript is not only functional but also aesthetically pleasing and educational. It is a great example of how basic web technologies can be used together to create interactive and user-friendly applications.
+
+#output
+
+<img width="1919" height="1002" alt="Image" src="https://github.com/user-attachments/assets/0d80da30-2b0f-4592-bab6-705a04066322" />
